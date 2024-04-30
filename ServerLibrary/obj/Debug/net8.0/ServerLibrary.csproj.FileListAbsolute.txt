@@ -1,0 +1,11 @@
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/bin/Debug/net8.0/ServerLibrary.deps.json
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/bin/Debug/net8.0/ServerLibrary.dll
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/bin/Debug/net8.0/ServerLibrary.pdb
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/obj/Debug/net8.0/ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/obj/Debug/net8.0/ServerLibrary.AssemblyInfoInputs.cache
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/obj/Debug/net8.0/ServerLibrary.AssemblyInfo.cs
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/obj/Debug/net8.0/ServerLibrary.csproj.CoreCompileInputs.cache
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/obj/Debug/net8.0/ServerLibrary.dll
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/obj/Debug/net8.0/refint/ServerLibrary.dll
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/obj/Debug/net8.0/ServerLibrary.pdb
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/obj/Debug/net8.0/ref/ServerLibrary.dll
