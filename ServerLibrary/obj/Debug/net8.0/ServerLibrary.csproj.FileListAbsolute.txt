@@ -9,3 +9,10 @@
 /Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/obj/Debug/net8.0/refint/ServerLibrary.dll
 /Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/obj/Debug/net8.0/ServerLibrary.pdb
 /Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/obj/Debug/net8.0/ref/ServerLibrary.dll
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/bin/Debug/net8.0/BaseLibrary.dll
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/bin/Debug/net8.0/BaseLibrary.pdb
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/obj/Debug/net8.0/ServerLibrary.csproj.AssemblyReference.cache
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/obj/Debug/net8.0/ServerLibrary.sourcelink.json
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/obj/Debug/net8.0/ServerLi.AF94C59E.Up2Date
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/bin/Debug/net8.0/ServerLibrary.runtimeconfig.json
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ServerLibrary/obj/Debug/net8.0/ServerLibrary.genruntimeconfig.cache

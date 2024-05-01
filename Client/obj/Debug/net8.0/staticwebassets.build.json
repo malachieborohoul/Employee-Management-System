@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yeO4a3E+m6tAuZ02uUX/nS5psksXELJJM+TsyYvs6ho=",
+  "Hash": "GegF6KkQ2lo9nKss+vVZXTko3nzvo/0o8YGd3whYdmo=",
   "Source": "Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/bin/Debug/net8.0/wwwroot/_framework/AutoMapper.wasm",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/obj/Debug/net8.0/webcil/AutoMapper.wasm"
+    },
     {
       "Identity": "/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/bin/Debug/net8.0/wwwroot/_framework/BaseLibrary.pdb",
       "SourceId": "Client",
@@ -6095,6 +6114,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/bin/Debug/net8.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.wasm"
+    },
+    {
+      "Identity": "/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/obj/Debug/net8.0/compressed/kete0bvhe2.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/bin/Debug/net8.0/wwwroot/_framework/AutoMapper.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/bin/Debug/net8.0/wwwroot/_framework/AutoMapper.wasm"
     },
     {
       "Identity": "/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/obj/Debug/net8.0/compressed/kfz68pvymu.gz",

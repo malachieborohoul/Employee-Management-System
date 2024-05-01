@@ -9,3 +9,4 @@
 /Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ClientLibrary/obj/Debug/net8.0/refint/ClientLibrary.dll
 /Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ClientLibrary/obj/Debug/net8.0/ClientLibrary.pdb
 /Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ClientLibrary/obj/Debug/net8.0/ref/ClientLibrary.dll
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/ClientLibrary/obj/Debug/net8.0/ClientLibrary.sourcelink.json

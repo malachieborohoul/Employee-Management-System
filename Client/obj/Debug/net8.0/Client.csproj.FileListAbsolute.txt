@@ -1047,3 +1047,9 @@
 /Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/obj/Debug/net8.0/refint/Client.dll
 /Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/obj/Debug/net8.0/Client.pdb
 /Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/obj/Debug/net8.0/ref/Client.dll
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/bin/Debug/net8.0/wwwroot/_framework/AutoMapper.wasm
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/bin/Debug/net8.0/wwwroot/_framework/AutoMapper.wasm.gz
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/bin/Debug/net8.0/AutoMapper.dll
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/obj/Debug/net8.0/Client.sourcelink.json
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/obj/Debug/net8.0/webcil/AutoMapper.wasm
+/Users/bsm/Documents/projects/dot net/DemoEmployeeManagementSystemSolution/Client/obj/Debug/net8.0/compressed/kete0bvhe2.gz
