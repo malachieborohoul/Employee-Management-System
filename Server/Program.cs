@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using ServerLibrary.Data;
 using ServerLibrary.Helpers;
 using ServerLibrary.Repositories.Contracts;
-using ServerLibrary.Repositories.Implementations;
+using ServerLibrary.Repositories.indRoImplementations;
 
 
 var builder = WebApplication.CreateBuilder(args);
